@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/operatorler/bin/Debug/net6.0/operatorler
+/Users/basarcelebi/Yazılım/Patika/operatorler/bin/Debug/net6.0/operatorler.deps.json
+/Users/basarcelebi/Yazılım/Patika/operatorler/bin/Debug/net6.0/operatorler.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/operatorler/bin/Debug/net6.0/operatorler.dll
+/Users/basarcelebi/Yazılım/Patika/operatorler/bin/Debug/net6.0/ref/operatorler.dll
+/Users/basarcelebi/Yazılım/Patika/operatorler/bin/Debug/net6.0/operatorler.pdb
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.dll
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/ref/operatorler.dll
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.pdb
+/Users/basarcelebi/Yazılım/Patika/operatorler/obj/Debug/net6.0/operatorler.genruntimeconfig.cache
