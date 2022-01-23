@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/bin/Debug/net6.0/Patika
+/Users/basarcelebi/Yazılım/Patika/bin/Debug/net6.0/Patika.deps.json
+/Users/basarcelebi/Yazılım/Patika/bin/Debug/net6.0/Patika.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/bin/Debug/net6.0/Patika.dll
+/Users/basarcelebi/Yazılım/Patika/bin/Debug/net6.0/ref/Patika.dll
+/Users/basarcelebi/Yazılım/Patika/bin/Debug/net6.0/Patika.pdb
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.dll
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/ref/Patika.dll
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.pdb
+/Users/basarcelebi/Yazılım/Patika/obj/Debug/net6.0/Patika.genruntimeconfig.cache
