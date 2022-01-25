@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/if-else-if/bin/Debug/net6.0/if-else-if
+/Users/basarcelebi/Yazılım/Patika/if-else-if/bin/Debug/net6.0/if-else-if.deps.json
+/Users/basarcelebi/Yazılım/Patika/if-else-if/bin/Debug/net6.0/if-else-if.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/if-else-if/bin/Debug/net6.0/if-else-if.dll
+/Users/basarcelebi/Yazılım/Patika/if-else-if/bin/Debug/net6.0/ref/if-else-if.dll
+/Users/basarcelebi/Yazılım/Patika/if-else-if/bin/Debug/net6.0/if-else-if.pdb
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.dll
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/ref/if-else-if.dll
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.pdb
+/Users/basarcelebi/Yazılım/Patika/if-else-if/obj/Debug/net6.0/if-else-if.genruntimeconfig.cache
