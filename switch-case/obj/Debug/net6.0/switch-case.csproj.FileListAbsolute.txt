@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/switch-case/bin/Debug/net6.0/switch-case
+/Users/basarcelebi/Yazılım/Patika/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/basarcelebi/Yazılım/Patika/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/basarcelebi/Yazılım/Patika/switch-case/bin/Debug/net6.0/ref/switch-case.dll
+/Users/basarcelebi/Yazılım/Patika/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/ref/switch-case.dll
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/basarcelebi/Yazılım/Patika/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
