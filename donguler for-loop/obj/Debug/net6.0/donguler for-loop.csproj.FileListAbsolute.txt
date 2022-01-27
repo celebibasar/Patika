@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/bin/Debug/net6.0/donguler for-loop
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/bin/Debug/net6.0/donguler for-loop.deps.json
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/bin/Debug/net6.0/donguler for-loop.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/bin/Debug/net6.0/donguler for-loop.dll
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/bin/Debug/net6.0/ref/donguler for-loop.dll
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/bin/Debug/net6.0/donguler for-loop.pdb
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.dll
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/ref/donguler for-loop.dll
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.pdb
+/Users/basarcelebi/Yazılım/Patika/donguler for-loop/obj/Debug/net6.0/donguler for-loop.genruntimeconfig.cache
