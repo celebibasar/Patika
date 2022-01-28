@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/diziler/bin/Debug/net6.0/diziler
+/Users/basarcelebi/Yazılım/Patika/diziler/bin/Debug/net6.0/diziler.deps.json
+/Users/basarcelebi/Yazılım/Patika/diziler/bin/Debug/net6.0/diziler.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/diziler/bin/Debug/net6.0/diziler.dll
+/Users/basarcelebi/Yazılım/Patika/diziler/bin/Debug/net6.0/ref/diziler.dll
+/Users/basarcelebi/Yazılım/Patika/diziler/bin/Debug/net6.0/diziler.pdb
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.dll
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/ref/diziler.dll
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.pdb
+/Users/basarcelebi/Yazılım/Patika/diziler/obj/Debug/net6.0/diziler.genruntimeconfig.cache
