@@ -1,0 +1,15 @@
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/bin/Debug/net6.0/array-sinifi
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/bin/Debug/net6.0/array-sinifi.deps.json
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/bin/Debug/net6.0/array-sinifi.runtimeconfig.json
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/bin/Debug/net6.0/array-sinifi.dll
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/bin/Debug/net6.0/ref/array-sinifi.dll
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/bin/Debug/net6.0/array-sinifi.pdb
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.csproj.AssemblyReference.cache
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.AssemblyInfoInputs.cache
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.AssemblyInfo.cs
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.csproj.CoreCompileInputs.cache
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.dll
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/ref/array-sinifi.dll
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.pdb
+/Users/basarcelebi/Yazılım/Patika/array-sinifi/obj/Debug/net6.0/array-sinifi.genruntimeconfig.cache
